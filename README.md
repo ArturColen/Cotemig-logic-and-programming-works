@@ -3,7 +3,7 @@ Repository created to share the projects I developed during the 2nd year of my t
 
 ## 💻 Technologies used 
 * [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): programming language
-* [.NET Framework](https://learn.microsoft.com/pt-br/dotnet/framework/): platform for developing and running systems and applications
+* [.NET Framework](https://learn.microsoft.com/pt-br/dotnet/fundamentals/): platform for developing and running systems and applications
 
 ## 📁 Access and execute project
 ### 1. Install and configure [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) on your computer
