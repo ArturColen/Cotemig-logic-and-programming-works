@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-displaying-data-on-screen", "01-displaying-data-on-screen\01-displaying-data-on-screen.csproj", "{352200B9-D02D-48A7-A6D5-FD12A9B4750C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352200B9-D02D-48A7-A6D5-FD12A9B4750C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352200B9-D02D-48A7-A6D5-FD12A9B4750C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352200B9-D02D-48A7-A6D5-FD12A9B4750C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352200B9-D02D-48A7-A6D5-FD12A9B4750C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB74A9E9-D9AE-4012-A172-F71516788667}
+	EndGlobalSection
+EndGlobal

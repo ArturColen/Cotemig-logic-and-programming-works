@@ -1,9 +1,9 @@
-# Framework Projects
+# Login and Programming projects
 Repository created to share the projects I developed during the 2nd year of my technical computer course with the aim of learning programming logic using the C# language.
 
 ## 💻 Technologies used 
 * [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): programming language
-* [.NET Framework](https://learn.microsoft.com/pt-br/dotnet/framework/): platform for developing and running systems and applications
+* [.NET Framework](https://learn.microsoft.com/pt-br/dotnet/fundamentals/): platform for developing and running systems and applications
 
 ## 📁 Access and execute project
 ### 1. Install and configure [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) on your computer
