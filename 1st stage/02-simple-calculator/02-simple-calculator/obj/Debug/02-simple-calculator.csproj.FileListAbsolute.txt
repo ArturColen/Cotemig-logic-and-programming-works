@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\bin\Debug\02-simple-calculator.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\bin\Debug\02-simple-calculator.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\bin\Debug\02-simple-calculator.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\obj\Debug\02-simple-calculator.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\obj\Debug\_02_simple_calculator.CalculatorForm.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\obj\Debug\_02_simple_calculator.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\obj\Debug\02-simple-calculator.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\obj\Debug\02-simple-calculator.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\obj\Debug\02-simple-calculator.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\02-simple-calculator\02-simple-calculator\obj\Debug\02-simple-calculator.pdb
