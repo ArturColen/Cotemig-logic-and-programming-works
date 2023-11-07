@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\bin\Debug\01-displaying-data-on-screen.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\bin\Debug\01-displaying-data-on-screen.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\bin\Debug\01-displaying-data-on-screen.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\obj\Debug\01-displaying-data-on-screen.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\obj\Debug\_01_displaying_data_on_screen.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\obj\Debug\_01_displaying_data_on_screen.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\obj\Debug\01-displaying-data-on-screen.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\obj\Debug\01-displaying-data-on-screen.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\obj\Debug\01-displaying-data-on-screen.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\01-displaying-data-on-screen\01-displaying-data-on-screen\obj\Debug\01-displaying-data-on-screen.pdb
