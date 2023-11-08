@@ -1,0 +1,12 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\bin\Debug\03-1st-stage-final-test.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\bin\Debug\03-1st-stage-final-test.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\bin\Debug\03-1st-stage-final-test.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\03-1st-stage-final-test.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\_03_1st_stage_final_test.FrmQuestion01.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\_03_1st_stage_final_test.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\03-1st-stage-final-test.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\03-1st-stage-final-test.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\03-1st-stage-final-test.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\03-1st-stage-final-test.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\_03_1st_stage_final_test.FrmQuestion02.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\1st stage\03-1st-stage-final-test\03-1st-stage-final-test\obj\Debug\_03_1st_stage_final_test.FrmQuestion03.resources
