@@ -128,9 +128,9 @@
             this.btnRegister.BackColor = System.Drawing.Color.DarkGreen;
             this.btnRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegister.ForeColor = System.Drawing.Color.White;
-            this.btnRegister.Location = new System.Drawing.Point(18, 433);
+            this.btnRegister.Location = new System.Drawing.Point(19, 433);
             this.btnRegister.Name = "btnRegister";
-            this.btnRegister.Size = new System.Drawing.Size(94, 39);
+            this.btnRegister.Size = new System.Drawing.Size(103, 39);
             this.btnRegister.TabIndex = 9;
             this.btnRegister.Text = "Cadastrar";
             this.btnRegister.UseVisualStyleBackColor = false;
