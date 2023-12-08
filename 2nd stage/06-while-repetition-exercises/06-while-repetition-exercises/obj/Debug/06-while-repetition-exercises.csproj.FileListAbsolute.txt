@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\bin\Debug\06-while-repetition-exercises.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\bin\Debug\06-while-repetition-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\bin\Debug\06-while-repetition-exercises.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\obj\Debug\06-while-repetition-exercises.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\obj\Debug\_06_while_repetition_exercises.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\obj\Debug\_06_while_repetition_exercises.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\obj\Debug\06-while-repetition-exercises.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\obj\Debug\06-while-repetition-exercises.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\obj\Debug\06-while-repetition-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\06-while-repetition-exercises\06-while-repetition-exercises\obj\Debug\06-while-repetition-exercises.pdb
