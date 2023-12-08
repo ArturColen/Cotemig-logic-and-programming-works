@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\bin\Debug\05-product-registration.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\bin\Debug\05-product-registration.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\bin\Debug\05-product-registration.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\obj\Debug\05-product-registration.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\obj\Debug\_05_product_registration.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\obj\Debug\_05_product_registration.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\obj\Debug\05-product-registration.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\obj\Debug\05-product-registration.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\obj\Debug\05-product-registration.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\05-product-registration\05-product-registration\obj\Debug\05-product-registration.pdb
