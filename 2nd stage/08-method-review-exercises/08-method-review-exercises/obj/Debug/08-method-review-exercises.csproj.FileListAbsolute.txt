@@ -1,0 +1,11 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\bin\Debug\08-method-review-exercises.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\bin\Debug\08-method-review-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\bin\Debug\08-method-review-exercises.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\08-method-review-exercises.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\_08_method_review_exercises.FrmQuestion01.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\_08_method_review_exercises.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\08-method-review-exercises.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\08-method-review-exercises.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\08-method-review-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\08-method-review-exercises.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\08-method-review-exercises\08-method-review-exercises\obj\Debug\_08_method_review_exercises.FrmQuestion02.resources
