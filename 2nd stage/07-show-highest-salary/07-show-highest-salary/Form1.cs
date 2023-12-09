@@ -16,5 +16,33 @@ namespace _07_show_highest_salary
         {
             InitializeComponent();
         }
+
+        private void btnVerify_Click(object sender, EventArgs e)
+        {
+            float firstSalary = float.Parse(txtFirstSalary.Text);
+            float secondSalary = float.Parse(txtSecondSalary.Text);
+            float thirdSalary = float.Parse(txtThirdSalary.Text);
+            MessageBox.Show(ShowHigherSalary(firstSalary, secondSalary, thirdSalary));
+        }
+
+        private string ShowHigherSalary(float firstSalary, float secondSalary, float thirdSalary)
+        {
+            if (firstSalary > secondSalary && firstSalary > thirdSalary)
+            {
+                return ("O primeiro salário é maior!");
+            }
+            else if (secondSalary > firstSalary && secondSalary > thirdSalary)
+            {
+                return ("O segundo salário é maior!");
+            }
+            else if (thirdSalary > firstSalary && thirdSalary > secondSalary+++)
+            {
+                return ("O terceiro salário é maior!");
+            }
+            else
+            {
+                return ("Os salários são iguais!");
+            }
+        }
     }
 }

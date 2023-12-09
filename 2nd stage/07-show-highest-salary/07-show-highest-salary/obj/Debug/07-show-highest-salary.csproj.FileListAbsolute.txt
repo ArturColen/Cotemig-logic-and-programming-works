@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\bin\Debug\07-show-highest-salary.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\bin\Debug\07-show-highest-salary.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\bin\Debug\07-show-highest-salary.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\obj\Debug\07-show-highest-salary.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\obj\Debug\_07_show_highest_salary.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\obj\Debug\_07_show_highest_salary.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\obj\Debug\07-show-highest-salary.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\obj\Debug\07-show-highest-salary.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\obj\Debug\07-show-highest-salary.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\07-show-highest-salary\07-show-highest-salary\obj\Debug\07-show-highest-salary.pdb
