@@ -1,0 +1,11 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\bin\Debug\09-final-test-2nd-stage.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\bin\Debug\09-final-test-2nd-stage.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\bin\Debug\09-final-test-2nd-stage.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\09-final-test-2nd-stage.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\_09_final_test_2nd_stage.FrmQuestion01.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\_09_final_test_2nd_stage.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\09-final-test-2nd-stage.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\09-final-test-2nd-stage.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\09-final-test-2nd-stage.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\09-final-test-2nd-stage.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\2nd stage\09-final-test-2nd-stage\09-final-test-2nd-stage\obj\Debug\_09_final_test_2nd_stage.FrmQuestion02.resources
