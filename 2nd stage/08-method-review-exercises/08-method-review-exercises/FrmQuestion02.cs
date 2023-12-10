@@ -21,15 +21,16 @@ namespace _08_method_review_exercises
         {
             float basis = float.Parse(txtBase.Text);
             float height = float.Parse(txtHeight.Text);
-            MessageBox.Show("A área do retângulo é: " + area(basis, height));
-            MessageBox.Show("O perímetro do retângulo é: " + perimeter(basis, height));
+            MessageBox.Show("A área do retângulo é: " + Area(basis, height));
+            MessageBox.Show("O perímetro do retângulo é: " + Perimeter(basis, height));
         }
 
-        private float area(float basis, float height)
+        private float Area(float basis, float height)
         {
             return basis * height;
         }
-        private float perimeter(float basis, float height)
+
+        private float Perimeter(float basis, float height)
         {
             return 2 * (basis + height);
         }

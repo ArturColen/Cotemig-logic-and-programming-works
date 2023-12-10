@@ -23,10 +23,10 @@ namespace _08_method_review_exercises
             int day = int.Parse(txtDay.Text);
             int month = int.Parse(txtMonth.Text);
             int year = int.Parse(txtYear.Text);
-            MessageBox.Show(validateDate(day, month, year));
+            MessageBox.Show(ValidateDate(day, month, year));
         }
 
-        private string validateDate(int day, int month, int year)
+        private string ValidateDate(int day, int month, int year)
         {
             if (day < 1 || day > 31)
             {

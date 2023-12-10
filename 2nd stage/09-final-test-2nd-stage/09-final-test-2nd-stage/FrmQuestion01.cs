@@ -31,20 +31,20 @@ namespace _09_final_test_2nd_stage
             string group = txtClass.Text;
             string observation = txtObservation.Text;
 
-            lblFullNameError.Text = validateEmptyField(fullName, "nome");
-            lblGenderError.Text = validateEmptyField(gender, "sexo");
-            lblClassError.Text = validateEmptyField(group, "turma");
-            lblObservationError.Text = validateEmptyField(observation, "observações");
-            lblRegistrationCodeError.Text = validateRegistrationCode(registrationCode);
+            lblFullNameError.Text = ValidateEmptyField(fullName, "nome");
+            lblGenderError.Text = ValidateEmptyField(gender, "sexo");
+            lblClassError.Text = ValidateEmptyField(group, "turma");
+            lblObservationError.Text = ValidateEmptyField(observation, "observações");
+            lblRegistrationCodeError.Text = ValidateRegistrationCode(registrationCode);
 
             if (lblFullNameError.Text == "" && lblGenderError.Text == "" && lblClassError.Text == "" && lblObservationError.Text == "" && lblRegistrationCodeError.Text != "Preencha corretamente o campo matrícula!")
             {
                 MessageBox.Show("Cadastro realizado com sucesso!");
-                clearField();
+                ClearField();
             }
         }
 
-        private string validateEmptyField(string value, string field)
+        private string ValidateEmptyField(string value, string field)
         {
             if (value == "")
             {
@@ -56,7 +56,7 @@ namespace _09_final_test_2nd_stage
             }
         }
 
-        private string validateRegistrationCode(int registrationCode)
+        private string ValidateRegistrationCode(int registrationCode)
         {
             if (registrationCode < 1000 || registrationCode > 9999)
             {
@@ -87,7 +87,7 @@ namespace _09_final_test_2nd_stage
             }
         }
 
-        private void clearField()
+        private void ClearField()
         {
             txtRegistrationCode.Text = "";
             txtFullName.Text = "";

@@ -20,10 +20,10 @@ namespace _09_final_test_2nd_stage
         private void btnShowNumbers_Click(object sender, EventArgs e)
         {
             string sequence = cmbSequence.Text;
-            lblShowNumbers.Text = showNumbers(sequence);
+            lblShowNumbers.Text = ShowNumbers(sequence);
         }
 
-        private string showNumbers(string sequence)
+        private string ShowNumbers(string sequence)
         {
             int sequenceLength;
             if (sequence == "5")
