@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\bin\Debug\11-repetition-loops-exercises.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\bin\Debug\11-repetition-loops-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\bin\Debug\11-repetition-loops-exercises.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\obj\Debug\11-repetition-loops-exercises.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\obj\Debug\_11_repetition_loops_exercises.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\obj\Debug\_11_repetition_loops_exercises.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\obj\Debug\11-repetition-loops-exercises.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\obj\Debug\11-repetition-loops-exercises.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\obj\Debug\11-repetition-loops-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\11-repetition-loops-exercises\11-repetition-loops-exercises\obj\Debug\11-repetition-loops-exercises.pdb
