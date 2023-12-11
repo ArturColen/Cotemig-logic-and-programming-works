@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\bin\Debug\14-drawings-in-tables.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\bin\Debug\14-drawings-in-tables.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\bin\Debug\14-drawings-in-tables.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\obj\Debug\14-drawings-in-tables.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\obj\Debug\_14_drawings_in_tables.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\obj\Debug\_14_drawings_in_tables.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\obj\Debug\14-drawings-in-tables.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\obj\Debug\14-drawings-in-tables.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\obj\Debug\14-drawings-in-tables.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\14-drawings-in-tables\14-drawings-in-tables\obj\Debug\14-drawings-in-tables.pdb
