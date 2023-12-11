@@ -1,0 +1,11 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\bin\Debug\17-matrix-filling.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\bin\Debug\17-matrix-filling.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\bin\Debug\17-matrix-filling.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\17-matrix-filling.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\17-matrix-filling.csproj.ResolveComReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\_17_matrix_filling.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\_17_matrix_filling.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\17-matrix-filling.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\17-matrix-filling.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\17-matrix-filling.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\17-matrix-filling\17-matrix-filling\obj\Debug\17-matrix-filling.pdb
