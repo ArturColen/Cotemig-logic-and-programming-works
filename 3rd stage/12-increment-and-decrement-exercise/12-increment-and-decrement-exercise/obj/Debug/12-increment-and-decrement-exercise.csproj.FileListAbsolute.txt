@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\bin\Debug\12-increment-and-decrement-exercise.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\bin\Debug\12-increment-and-decrement-exercise.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\bin\Debug\12-increment-and-decrement-exercise.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\obj\Debug\12-increment-and-decrement-exercise.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\obj\Debug\_12_increment_and_decrement_exercise.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\obj\Debug\_12_increment_and_decrement_exercise.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\obj\Debug\12-increment-and-decrement-exercise.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\obj\Debug\12-increment-and-decrement-exercise.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\obj\Debug\12-increment-and-decrement-exercise.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\12-increment-and-decrement-exercise\12-increment-and-decrement-exercise\obj\Debug\12-increment-and-decrement-exercise.pdb
