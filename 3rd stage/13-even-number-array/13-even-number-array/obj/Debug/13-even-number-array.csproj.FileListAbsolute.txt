@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\bin\Debug\13-even-number-array.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\bin\Debug\13-even-number-array.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\bin\Debug\13-even-number-array.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\obj\Debug\13-even-number-array.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\obj\Debug\_13_even_number_array.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\obj\Debug\_13_even_number_array.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\obj\Debug\13-even-number-array.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\obj\Debug\13-even-number-array.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\obj\Debug\13-even-number-array.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\13-even-number-array\13-even-number-array\obj\Debug\13-even-number-array.pdb
