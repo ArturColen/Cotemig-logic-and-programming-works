@@ -1,0 +1,10 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\bin\Debug\15-vector-sum.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\bin\Debug\15-vector-sum.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\bin\Debug\15-vector-sum.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\obj\Debug\15-vector-sum.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\obj\Debug\_15_vector_sum.Form1.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\obj\Debug\_15_vector_sum.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\obj\Debug\15-vector-sum.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\obj\Debug\15-vector-sum.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\obj\Debug\15-vector-sum.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\15-vector-sum\15-vector-sum\obj\Debug\15-vector-sum.pdb
