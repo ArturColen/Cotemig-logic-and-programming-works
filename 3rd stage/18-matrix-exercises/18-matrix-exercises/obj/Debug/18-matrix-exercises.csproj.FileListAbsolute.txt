@@ -1,0 +1,12 @@
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\bin\Debug\18-matrix-exercises.exe.config
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\bin\Debug\18-matrix-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\bin\Debug\18-matrix-exercises.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\18-matrix-exercises.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\_18_matrix_exercises.FrmQuestion01.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\_18_matrix_exercises.Properties.Resources.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\18-matrix-exercises.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\18-matrix-exercises.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\18-matrix-exercises.exe
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\18-matrix-exercises.pdb
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\_18_matrix_exercises.FrmQuestion02.resources
+C:\Users\artur\Desktop\Cotemig-logic-and-programming-works\3rd stage\18-matrix-exercises\18-matrix-exercises\obj\Debug\_18_matrix_exercises.FrmQuestion03.resources
