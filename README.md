@@ -4,6 +4,7 @@ Repository created to share the projects I developed during the 2nd year of my t
 ## 🔨 Projects functionality
 
 ### 01 - Displaying data on screen
+This program was developed to introduce students to the C# programming language and consists of displaying the data entered by the user in the text field as an alert message.
 
 ### 02 - Simple calculator
 
