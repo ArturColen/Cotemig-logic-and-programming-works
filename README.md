@@ -7,6 +7,7 @@ Repository created to share the projects I developed during the 2nd year of my t
 The program was developed to introduce students to the C# programming language and consists of displaying the data entered by the user in the text field as an alert message.
 
 ### 02 - Simple calculator
+Calculator developed with the aim of using the basic operators in the C# language (addition, subtraction, multiplication and division).
 
 ### 03 - Final test 1st stage
 
