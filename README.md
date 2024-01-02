@@ -19,35 +19,49 @@ The exercise consists of 12 questions to test the student's knowledge of the IF 
 Program created with the aim of making a simple user registration, just validating some data entered by the user and the tax value from the data entered by the user.
 
 ### 06 - While repetition exercises
-
+Project developed with the aim of consolidating the content learned about the WHILE repetition structure.
 
 ### 07 - Show highest salary
+Application developed with the aim of teaching more about the IF structure. To do this, the user must enter three salaries, and the code will check them and display the highest one.
 
 ### 08 - Method review exercises
+The program consists of three exercises designed to teach students how to create and use methods in C#.
 
 ### 09 - Final test 2nd stage
+The final test of the second stage was designed to put into practice the main content learned over the last few months. It consists of two parts: one for static user registration that validates the entered fields, and another to display all the numbers in a sequence specified by the user using a repeat loop.
 
 ### 10 - Decrement exercise
+Project created to display numbers to the user in descending order using the FOR repetition structure.
 
 ### 11 - Repetition loops exercises
+Project developed with the aim of consolidating the content learned about the main repetition structures (for, while and do-while).
 
 ### 12 - Increment and decrement exercise
+Program designed to train more about the IF conditional structure and the WHILE repetition structure, complementing exercise 10.
 
 ### 13 - Even number array
+Project created to display all the even numbers in an array, with the main objective of training knowledge about vectors and the FOR structure in C#.
 
 ### 14 - Drawings in tables
+Application developed to create drawings through tables using the FOR structure.
 
 ### 15 - Vector sum
+Project created in order to train more about array, by summing the values present in its structure.
 
 ### 16 - Vector analysis
+Program designed to teach the contents of vectors, storing random numbers from a value determined by the user and obtaining some information about the generated structure, such as the largest and smallest value present in it, among other data.
 
 ### 17 - Matrix filling
+Application created to introduce studies on matrix creation in C#, where the user enters nine values and they make up the structure of this matrix.
 
 ### 18 - Matrix exercises
+Three-question project developed with the aim of learning more about matrix breeding.
 
 ### 19 - Student registration
+Student registration program developed with final stage project. Its main objective is to introduce students to the creation of a complete CRUD involving C# and SQL.
 
 ### 20 - Final test 3rd stage
+The final course test was designed to put into practice the main knowledge acquired during the year, for which two questions were developed: the first was to display drawings in a matrix, and the second consisted of creating a complete CRUD with SQL.
 
 ## 💻 Technologies used 
 * [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): programming language
