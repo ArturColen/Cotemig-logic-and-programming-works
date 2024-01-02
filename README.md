@@ -10,12 +10,16 @@ The program was developed to introduce students to the C# programming language a
 Calculator developed with the aim of using the basic operators in the C# language (addition, subtraction, multiplication and division).
 
 ### 03 - Final test 1st stage
+The application was developed with the aim of testing the knowledge acquired during the first stage of the course and consists of two questions: one to take the user's data, save it in a variable and display it on the screen, and another question to calculate the value of each installment (based on the data provided by the user).
 
 ### 04 - Decision structure exercise
+The exercise consists of 12 questions to test the student's knowledge of the IF decision structure.
 
 ### 05 - Product registration
+Program created with the aim of making a simple user registration, just validating some data entered by the user and the tax value from the data entered by the user.
 
 ### 06 - While repetition exercises
+
 
 ### 07 - Show highest salary
 
